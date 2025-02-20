@@ -15,7 +15,7 @@ A simple Chrome browser extension that allows users to add customizable overlays
 1. Clone this repository or download the ZIP file
 
 ```bash
-git clone https://github.com/yourusername/image-overlay-extension
+git clone https://github.com/medelmourabite/image-overlay-chrome-extension.git
 ```
 
 2. Open Chrome and navigate to chrome://extensions/
